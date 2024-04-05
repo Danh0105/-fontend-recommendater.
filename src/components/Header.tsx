@@ -1,4 +1,3 @@
-import React from 'react'
 import CallSplitIcon from '@mui/icons-material/CallSplit';
 const Header = () => {
   return (
